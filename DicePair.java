@@ -13,7 +13,7 @@ both dies land on 6, 1000 times
   
   Random objRandom = new Random();
   
-	int intBoxcars = 0;                               
+  int intBoxcars = 0;                               
   int intRolls = 1000;
   int intBoxes = 12;
   int intDie1 = 0;
